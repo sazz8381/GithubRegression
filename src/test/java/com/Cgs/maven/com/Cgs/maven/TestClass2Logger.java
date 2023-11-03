@@ -16,7 +16,7 @@ import org.apache.logging.log4j.Logger;
 public class TestClass2Logger {
 	static WebDriver d;
 	
-	
+	//for logging purpose we use it 
 	Logger log = LoggerClass.getLog(TestClass2Logger.class);
 	
 	
